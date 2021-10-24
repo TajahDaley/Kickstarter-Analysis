@@ -22,14 +22,11 @@ Combing through the data was not easy. Especially when there are a lot of inform
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-One of the conclusions we can draw from the Outcomes based on Launch Data is there was a spike in sucssesfful campaigns during the months of may and june. Also the amount of canceled theater Campaigns were extremely low.
+One of the conclusions we can draw from the Outcomes based on Launch Data is there was a spike in sucssesfful campaigns during the months of may and june. Another conclusion the amount of canceled theater Campaigns were extremely low.
 
 
-- What can you conclude about the Outcomes based on Goals?
 What we can conclude about this is a lot of the campaigns decided to go with smaller goals which those seemed to have a higher success rate. Also there were no canceled campaigns. 
 
-- What are some limitations of this dataset?
 one limitation is that the US has a majority of the kickstartes leaving the rest of the countries with just ~1,000 kick starters. Another limitation is having excess information such as the blurbs or the currency, sometimes eliminating the extra information could allow us to focus more on the data given. 
 
-- What are some other possible tables and/or graphs that we could create? We could have created a bar graph to look at the average donations/backers count from different countries to get a better look at how much/how many was donated via each country. 
+We could have created a bar graph to look at the average donations/backers count from different countries to get a better look at how much/how many was donated via each country. 
